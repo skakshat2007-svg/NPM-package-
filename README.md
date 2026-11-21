@@ -1,9 +1,10 @@
+
 # is-even-clone
 
-> A simple, beginner-friendly npm package that checks whether a number is even.
+A simple, beginner-friendly npm package that checks whether a number is even.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen)](https://nodejs.org/)
 
 ---
 
@@ -14,8 +15,6 @@ This package is an **educational recreation** of the popular
 scratch as a college assignment. It was written independently without copying
 any source code from the original package, and exists purely for learning
 purposes.
-
----
 
 ## ✨ Features
 
@@ -179,3 +178,7 @@ console.log(evenNumbers); // [2, 4]
 ## 📄 License
 
 [MIT](./LICENSE) © 2026 skakshar2007-svg
+=======
+# NPM-package-
+This is a repo regarding Bucket list 1 in which I had to make a npm package and publish it.
+>>>>>>> fd252009fa9597a52fb89a8264b3c59547e798e2
